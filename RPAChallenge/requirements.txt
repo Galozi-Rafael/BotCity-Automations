@@ -1,0 +1,18 @@
+# Core BotCity Web Framework
+botcity-framework-web==1.6.2
+
+# Maestro SDK
+botcity-maestro-sdk==0.5.1
+
+# Plugins (Excel, PDF, etc)
+botcity-plugins==0.1.7
+
+# Selenium compatível com BotCity
+selenium==4.9.1
+
+# Driver Manager automático (evita erro de versão do Edge)
+webdriver-manager==4.0.1
+
+# Utilitários importantes
+setuptools>=65.0
+wheel>=0.38
